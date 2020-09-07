@@ -2,7 +2,7 @@
 Support for Bang & Olufsen speakers
 """
 import asyncio
-from asyncio.futures import CancelledError
+from asyncio import CancelledError
 import logging
 from datetime import timedelta
 
